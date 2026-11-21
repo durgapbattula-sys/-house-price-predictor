@@ -1,0 +1,6 @@
+{
+  "mean_absolute_error_usd": 33420.95,
+  "r2_score": 0.853,
+  "training_rows": 12,
+  "test_rows": 5
+}
