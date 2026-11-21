@@ -84,3 +84,11 @@ git push -u origin main
 - Add unit tests.
 - Build a Streamlit or FastAPI interface.
 - Deploy the model as an API.
+
+## Project Presentation
+
+This presentation explains the House Price Prediction
+machine learning project, including its business problem,
+technologies, architecture, training process and results.
+
+[Download Project PowerPoint](docs/house_price_predictor_overview.pptx)
